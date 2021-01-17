@@ -1,0 +1,14 @@
+/* body class should be added in HTML*/
+
+body { background-color: #00FF00; }
+
+/* All Browsers Compatitible*/
+.unselectable {
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    color: #cc0000;        
+}
+      
