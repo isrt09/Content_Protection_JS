@@ -8,4 +8,6 @@ Tricks for Content Copyrights Prevention i.e. Disable any  KeyPress on KeyBoard,
  - Disable Functional Keys F1~F12
  - Disable Inspect Element on Browser
  - Disable Text Selections on Mouse
- - Disable mouse button in both
+ - Disable mouse buttons in both
+ - Disable keyboard copy & paste
+ - Disable View Resource / CTRL+U
